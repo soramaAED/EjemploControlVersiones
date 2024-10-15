@@ -41,4 +41,11 @@ Area<-b*h
 ```
 
 
+#area trapecio
 
+```{r}
+b1<-2
+b2<-4
+h<-5
+Area<-((b1+b2)*h)/2
+```
