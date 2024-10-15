@@ -21,3 +21,15 @@ Area<-pi*r^2
 l<-0.5
 Area<-l^2
 ```
+
+
+#area triangulo
+
+```{r}
+b<-2
+h<-5
+Area<-(b*h)/2
+```
+
+
+
