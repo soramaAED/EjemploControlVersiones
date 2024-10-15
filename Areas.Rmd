@@ -1,0 +1,16 @@
+---
+title: "Areas"
+output: pdf_document
+date: "2024-10-15"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#área circulo
+
+```{r}
+r<-0.5
+Area<-pi*r^2
+```
