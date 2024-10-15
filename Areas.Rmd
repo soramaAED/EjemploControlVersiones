@@ -32,4 +32,10 @@ Area<-(b*h)/2
 ```
 
 
+#area rectangulo
 
+```{r}
+b<-2
+h<-5
+Area<-b*h
+```
